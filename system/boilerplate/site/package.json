@@ -96,7 +96,7 @@
     "@polymer/polymer": "^3.1.0",
     "@vaadin/vaadin-split-layout": "^4.1.0",
     "@vaadin/vaadin-upload": "^4.2.1",
-    "@webcomponents/webcomponentsjs": "2.2.10",
+    "@webcomponents/webcomponentsjs": "2.4.1",
     "paper-collapse-item": "^4.0.4",
     "web-animations-js": "^2.3.1"
   },
@@ -120,7 +120,7 @@
     "@polymer/app-layout": "3.0.2"
   },
   "devDependencies": {
-    "@prettier/plugin-php": "^0.11.0",
+    "@prettier/plugin-php": "^0.12.0",
     "prettier": "^1.16.4",
     "gulp": "^4.0.2",
     "gulp-terser": "^1.2.0"
